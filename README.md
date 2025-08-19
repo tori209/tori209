@@ -1,7 +1,7 @@
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
 <div align=left><h1> Timeline </h1>
   
-- 2025.07-Now: Naver Cloud / Infra
+- 2025.07-Now: Naver Cloud - Container Engineering (Infra Engineering)
 - 2024.08-2025.06: GIST NetAI 연구실 학사인턴
 - 2022.07-2022.12: 네이버 부스트캠프 풀스택 7기
 
